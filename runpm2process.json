@@ -1,0 +1,15 @@
+{
+    "apps": [
+       
+        {
+            "script": "./mqtt/mqtt.js"
+        },
+        {
+            "script": "./processing/resetGateway.js"
+        },
+        {
+            "script": "./processing/timeRequest.js"
+        }
+       
+    ]
+}
